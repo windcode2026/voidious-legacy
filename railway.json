@@ -1,0 +1,9 @@
+json
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "npm start"
+  }
+}
